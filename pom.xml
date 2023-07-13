@@ -98,7 +98,7 @@
             <type>jar</type>
         </dependency>
 		
-				<!-- LOGGING -->
+				<!-- LOGGING INFORMATION -->
 		<dependency>
 	<groupId>log4j</groupId>
 	<artifactId>log4j</artifactId>
